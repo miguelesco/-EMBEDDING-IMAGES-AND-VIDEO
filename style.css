@@ -1,0 +1,11 @@
+.videoContainer{
+    background-color: darkslategray;
+    display: flex;
+    justify-content: center;
+}
+.recommendations {
+    display: flex;
+    justify-content: flex-end;
+    background-color: aqua;
+    margin-top: 20px;
+}
